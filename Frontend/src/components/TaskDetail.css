@@ -1,0 +1,19 @@
+/* TaskDetail.css */
+
+/* Reuse the general styles from App.css */
+
+.task-detail {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .task-detail h1 {
+    margin-bottom: 20px;
+  }
+  
+  .task-detail p {
+    margin: 10px 0;
+  }
+  
