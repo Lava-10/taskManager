@@ -1,15 +1,34 @@
-#Installation
-1)Clone the repository
-git clone https://github.com/nz-m/SocialEcho.git
-Go to the project directory and install dependencies for both the client and server
-cd client
+# Task Manager
+
+A project to manage tasks efficiently.
+
+## Deployed Application
+
+You can access the live application here: [Task Manager](https://666bf077048ee03849e87de5--peppy-gumdrop-e0d9b6.netlify.app/)
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Lava-10/taskManager.git
+# Navigate to the client directory
+cd frontend
+
+# Install client dependencies
 npm install
-cd server
+
+# Navigate to the backend directory
+cd ../backend
+
+
+# Install server dependencies
 npm install
-Create a .env file in both the client and server directories and add the environment variables as shown in the .env.example files.
-Start the server
-cd server
+
+#Start running
+cd backend
 npm start
-Start the client
-cd client
+cd frontend
 npm start
