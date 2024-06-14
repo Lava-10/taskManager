@@ -1,6 +1,6 @@
 # Task Manager
 
-A project to manage tasks efficiently.
+A project to manage tasks efficiently. To edit task double click on the task and can update,delete or change schedule of task.
 
 ## Deployed Application
 
